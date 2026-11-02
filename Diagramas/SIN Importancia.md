@@ -1,0 +1,4 @@
+- **Objetos:** Redundante con el de clases, solo mostraba datos estáticos de prueba sin aportar valor real.
+- **Comunicación:** Repetía la mismísima información del de secuencia pero con una distribución gráfica desordenada.
+- **Tiempos (Timing):** Innecesario porque la lógica de temporizadores (3 s, 5 min, 15 min) quedó clara en actividades y secuencia.
+- **Estructura Compuesta:** Sobraba por completo al tener ya la arquitectura modular resuelta en el diagrama de componentes.

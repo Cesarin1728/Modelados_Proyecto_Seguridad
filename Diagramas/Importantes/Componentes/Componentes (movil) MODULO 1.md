@@ -1,4 +1,4 @@
-[[Componentes]]
+[[Importantes]]
 @startuml
 skinparam componentStyle uml2
 skinparam shadowing false

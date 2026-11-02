@@ -1,4 +1,4 @@
-[[Secuencia]]
+[[Importantes]]
 @startuml
 autonumber
 skinparam responseMessageBelowArrow true

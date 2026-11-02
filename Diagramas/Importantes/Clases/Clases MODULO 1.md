@@ -1,4 +1,4 @@
-[[Clases]]
+[[Importantes]]
 @startuml
 skinparam classAttributeIconSize 0
 skinparam shadowing false
